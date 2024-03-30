@@ -1,7 +1,7 @@
 # vue-GuessNumberApp
 
 <h3>Guess Number App (using Vue JS)</h3>
-<a href="https://vik-kalsi.github.io/NexusTechneo/">Click here to access the Guess Number App</a>
+<a href="https://vik-kalsi.github.io/vue-GuessNumberApp/">Click here to access the Guess Number App</a>
 
 <br>
 
